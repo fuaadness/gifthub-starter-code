@@ -4,6 +4,8 @@
 
 .main {
   padding: 2rem;
+  padding-right: 20rem;
+  padding-left: 20rem; 
   flex: 1;
   min-height: 85vh;
 
@@ -127,4 +129,13 @@
   .logo img {
     filter: invert(1);
   }
+}
+
+div.ex2 {
+  max-width: 200px;
+  margin: auto;
+}
+
+.wrapper {
+  margin: 0 50px; /* Add 50 pixels of padding on the left and right sides of the wrapper element */
 }
